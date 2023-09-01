@@ -24,7 +24,7 @@
             max-width: 800px;
             margin: 20px auto;
             padding: 20px;
-            background-color: black;
+            background-color: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
     </style>
@@ -35,9 +35,9 @@
     </header>
     <div class="container">
         <?php
-        echo "Nama : Yasmin Indah Hasari";
-        echo "NPM : 217006009";
-        echo "Universitas Siliwangi";
+        echo <p>"Nama : Yasmin Indah Hasari"<p>;
+        echo <p>"NPM : 217006009"<p>;
+        echo <p>"Universitas Siliwangi"<p>;
         ?>
     </div>
 </body>
