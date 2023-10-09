@@ -35,7 +35,7 @@
     </header>
     <div class="container">
         <?php
-        echo <p>"Nama : Yasmin Indah Hasari"<p>;
+        echo <p>"Nama : Yasmin Indah"<p>;
         echo <p>"NPM : 217006009"<p>;
         echo <p>"Universitas Siliwangi"<p>;
         ?>
